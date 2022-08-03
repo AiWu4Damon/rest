@@ -1,4 +1,4 @@
-package com.tuya.dameng.fan.base;
+package com.tuya.dameng.fan.pointer;
 
 import java.util.Arrays;
 

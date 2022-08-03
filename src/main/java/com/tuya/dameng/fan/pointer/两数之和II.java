@@ -1,4 +1,4 @@
-package com.tuya.dameng.fan.base;
+package com.tuya.dameng.fan.pointer;
 
 /**
  * @author 达蒙
